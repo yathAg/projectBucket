@@ -1,4 +1,4 @@
 ## My Data
 
-Name | info | lol
-tf |  | 
+| Name | info | lol |
+| tf |  |  |
