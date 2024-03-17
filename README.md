@@ -1,7 +1,8 @@
 # projectBucket 
  I was tired of losing bookmarks of amazing projects ( No one ever opens their twitter bookmarks...) so here is projectBucket! 
 
- I just enter the link in a google spreadsheet and et voila, the data is compiled here! ## Cool Webpages
+ I just enter the link in a google spreadsheet and et voila, the data is compiled here! 
+ ## Cool Webpages
 
 | Name | Description | Link |
 | --- | --- | --- |
