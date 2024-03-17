@@ -2,6 +2,7 @@
  I was tired of losing bookmarks of amazing projects ( No one ever opens their twitter bookmarks...) so here is projectBucket! 
 
  I just enter the link in a google spreadsheet and et voila, the data is compiled here! 
+ > Note im still porting my gazzilion bookmarks  
  ## Cool Webpages
 
 | Name | Description | Link |
