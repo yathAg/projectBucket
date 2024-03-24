@@ -5,12 +5,13 @@
  > Note im still porting my gazzilion bookmarks  
  ## Cool Webpages
 
-| Name | Description | Link |
-| --- | --- | --- |
-| onidev | IC decapping images | https://ic.onidev.fr/requests.html |
-| antmicro | opensource development testbeds and hardware | https://antmicro.com/ |
-| awesome-semiconductor-startups | List of Semiconductor startups and partially the inspiration behind projectBucket | https://github.com/aolofsson/awesome-semiconductor-startups |
-| osda | Open source design Automation Conference | https://osda.ws/ |
+| Name | Description | Category | Link |
+| --- | --- | --- | --- |
+| onidev | IC decapping images | Information | https://ic.onidev.fr/requests.html |
+| antmicro | opensource development testbeds and hardware | Project | https://antmicro.com/ |
+| awesome-semiconductor-startups | List of Semiconductor startups and partially the inspiration behind projectBucket | Information | https://github.com/aolofsson/awesome-semiconductor-startups |
+| osda | Open source design Automation Conference | Conference  | https://osda.ws/ |
+| zeroasic ebrick | chiplet platform demo | Project | https://www.zeroasic.com/blog/ebrick-demo |
 
 
 ## RISCV
@@ -25,5 +26,8 @@
 
 | Name | Description | Link |
 | --- | --- | --- |
+| ImHex | opensource hex data analyszer | https://github.com/WerWolv/ImHex |
+| Picocad | A lightweight CAD tool | https://johanpeitz.itch.io/picocad |
+| kicanvas | browser-based viewer for KiCAD schematics and boards | https://github.com/theacodes/kicanvas |
 
 
