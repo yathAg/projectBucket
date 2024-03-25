@@ -12,6 +12,8 @@
 | awesome-semiconductor-startups | List of Semiconductor startups and partially the inspiration behind projectBucket | Information | https://github.com/aolofsson/awesome-semiconductor-startups |
 | osda | Open source design Automation Conference | Conference  | https://osda.ws/ |
 | zeroasic ebrick | chiplet platform demo | Project | https://www.zeroasic.com/blog/ebrick-demo |
+| Sonata | Opensource artix7 FPGA hardware | Project | https://github.com/newaetech/sonata-pcb |
+| ken Shirriff's Blog | Analysis of the 8008 die! | Information | https://www.righto.com/?m=0 |
 
 
 ## RISCV
@@ -20,6 +22,7 @@
 | --- | --- | --- |
 | learn-fpga | Best RISCV and FPGA tutorial out there! | https://github.com/BrunoLevy/learn-fpga/tree/master |
 | OpenTitan  | Opensource silicon RoT  | https://opentitan.org/ |
+| cheriot-ibex | Microsoft backed core developed on ibex | https://github.com/lowRISC/cheriot-ibex |
 
 
 ## Open Source Tools
