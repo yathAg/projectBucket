@@ -3,7 +3,7 @@
 
  I just enter the link in a google spreadsheet and et voila, the data is compiled here! 
  > Note im still porting my gazzilion bookmarks  
- ## Cool Webpages
+ ## Cool Webpages & Blogs
 
 | Name | Description | Category | Link |
 | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | zeroasic ebrick | chiplet platform demo | Project | https://www.zeroasic.com/blog/ebrick-demo |
 | Sonata | Opensource artix7 FPGA hardware | Project | https://github.com/newaetech/sonata-pcb |
 | ken Shirriff's Blog | Analysis of the 8008 die! | Information | https://www.righto.com/?m=0 |
+| AES Encryption Taped Out in Days | Linkdin Blog | Blog | https://www.linkedin.com/pulse/aes-encryption-taped-out-days-steve-hoover-d4lxe/ |
 
 
 ## RISCV
@@ -23,6 +24,7 @@
 | learn-fpga | Best RISCV and FPGA tutorial out there! | https://github.com/BrunoLevy/learn-fpga/tree/master |
 | OpenTitan  | Opensource silicon RoT  | https://opentitan.org/ |
 | cheriot-ibex | Microsoft backed core developed on ibex | https://github.com/lowRISC/cheriot-ibex |
+| Project Sunburst | Opensource Embedded security platform | https://www.sunburst-project.org/ |
 
 
 ## Open Source Tools
