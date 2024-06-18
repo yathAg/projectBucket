@@ -34,5 +34,6 @@
 | ImHex | opensource hex data analyszer | https://github.com/WerWolv/ImHex |
 | Picocad | A lightweight CAD tool | https://johanpeitz.itch.io/picocad |
 | kicanvas | browser-based viewer for KiCAD schematics and boards | https://github.com/theacodes/kicanvas |
+| fusesoc |  | https://github.com/olofk/fusesoc |
 
 
