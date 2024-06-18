@@ -16,7 +16,7 @@
 | ken Shirriff's Blog | Analysis of the 8008 die! | Information | https://www.righto.com/?m=0 |
 | AES Encryption Taped Out in Days | Linkdin Blog | Blog | https://www.linkedin.com/pulse/aes-encryption-taped-out-days-steve-hoover-d4lxe/ |
 | Spade Csi2 | Raspberrypi camera on FPGA | Project | https://gitlab.com/TheZoq2/spade-csi2/ |
-|  |  | Project | https://github.com/gatecat/CSI2Rx |
+| MIPI CSI-2 IP Cores |  | Project | https://github.com/gatecat/CSI2Rx |
 
 
 ## RISCV
