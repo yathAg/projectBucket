@@ -38,6 +38,6 @@
 | kicanvas | browser-based viewer for KiCAD schematics and boards | https://github.com/theacodes/kicanvas |
 | fusesoc | Package manager and build abstraction tool for FPGA/ASIC development | https://github.com/olofk/fusesoc |
 | open-logic | Open Logic aims to be for HDL projects what what stdlib is for C/C++ projects. | https://github.com/open-logic/open-logic |
-| yoWASP |  | https://github.com/YoWASP |
+| yoWASP | Yosys WebAssembly Synthesis & PNR packages | https://github.com/YoWASP |
 
 
