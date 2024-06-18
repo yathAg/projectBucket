@@ -15,8 +15,7 @@
 | Sonata | Opensource artix7 FPGA hardware | Project | https://github.com/newaetech/sonata-pcb |
 | ken Shirriff's Blog | Analysis of the 8008 die! | Information | https://www.righto.com/?m=0 |
 | AES Encryption Taped Out in Days | Linkdin Blog | Blog | https://www.linkedin.com/pulse/aes-encryption-taped-out-days-steve-hoover-d4lxe/ |
-|  |  |  | https://gitlab.com/TheZoq2/spade-csi2/ |
-| Spade Csi2 |  |  |  |
+| Spade Csi2 |  |  | https://gitlab.com/TheZoq2/spade-csi2/ |
 
 
 ## RISCV
